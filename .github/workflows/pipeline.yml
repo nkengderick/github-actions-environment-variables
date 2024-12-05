@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env: 
-      JDK_VERSION: "20"
+      JDK_VERSION: "21"
 
     steps:
     - uses: actions/checkout@v3
